@@ -18,7 +18,6 @@ public class App
                if(nums[x] == nums[y]){
                    return;
                }
-
            }
             if(nums[x] > max) {
                 max=nums[x];
